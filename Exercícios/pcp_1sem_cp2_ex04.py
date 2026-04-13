@@ -51,4 +51,9 @@ print(f"Total de acrescimos: {total_acrescimos}")
 print(f"Total de descontos: {total_descontos}")
 print(f"Salario final: {salario_final}")
 
-#Incompleto#
+#Incompleto
+
+print(f"nome é {nome_funcionario} seu cargo é {qual_o_cargo()} seu salario bruto é {salario_bruto}, "
+      f"Seu total de Acrescimo {total_acrescimos}, Seu total de desconto foi {total_descontos}, O seu salario Final é {salario_final}")
+
+# Fazer depois
