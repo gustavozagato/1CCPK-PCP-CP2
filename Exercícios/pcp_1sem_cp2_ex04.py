@@ -12,9 +12,9 @@ def qual_o_cargo():
     if cargo ==1:
         print(f"Seu Cargo é de Gerente" )
     elif cargo ==2:
-        print("Seu cargo é de  Analista")
+        print("Seu cargo é de Analista")
     elif cargo ==3:
-        print("Seu cargo é de  Assistente")
+        print("Seu cargo é de Assistente")
     elif cargo ==4:
         print("Você é Estagiario")
     else:
