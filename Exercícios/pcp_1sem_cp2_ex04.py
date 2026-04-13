@@ -50,3 +50,5 @@ print(f"Salario bruto: {salario_bruto}")
 print(f"Total de acrescimos: {total_acrescimos}")
 print(f"Total de descontos: {total_descontos}")
 print(f"Salario final: {salario_final}")
+
+#Incompleto#
