@@ -1,7 +1,7 @@
 nome_funcionario = input("Qual o seu nome?: ")
-cargo = int(input("digite 1 se você é Gerente, 2 para Analista, 3 para Assistente e 4 e para Estagiario: "))
+cargo = int(input("Digite 1 se você é Gerente, 2 para Analista, 3 para Assistente e 4 e para Estagiario: "))
 salario_base = float(input("Qual o seu salario?: "))
-hora_extra_trabalha = int(input("Qual a sua hora trabalhada?: "))
+hora_extra_trabalha = int(input("Qual o seu total de horas extras trabalhada?: "))
 falta_mes = int(input("Quantas vezes vc faltou?: "))
 recebeu_bonus = input("Coloque S ou N se voce recebeu bonus?: ") # o usuario deve digitar em minusculo
 
